@@ -8,8 +8,8 @@ Notes:      By using the pandas we don't necessarily need columns
             in the spreadsheets to be in the same order for them 
             to be aggregated successfully which is a nice feature. 
             Including a toy example of two worksheets to be merged
-            int he repositroy to illustrate and the result using
-            this script.
+            in the repository to illustrate, along with resulting
+            spreadsheet.
 '''
 
 import os
